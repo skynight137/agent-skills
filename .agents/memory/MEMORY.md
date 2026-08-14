@@ -1,0 +1,3 @@
+- [Delegation resume contract](delegation-mode.md) — explicit task IDs and per-task plan files preserve progress when a worker or dispatcher is interrupted.
+- [Callback sandbox boundary](code-execution-sandbox.md) — use direct registered callbacks in CodeExecution; use shell tools for workspace filesystem validation.
+- [Plan marker path compatibility](plan-marker-paths.md) — accept one final marker in either absolute or equivalent workspace-relative form.
